@@ -101,42 +101,41 @@ Actions are *italic*. Nouns are **bold**. Attributes of nouns are **_bold italic
 User stories marked :white_check_mark: are complete and those with :heavy_exclamation_mark: are incomplete
 
 ##### :white_check_mark: User Story 01
-
-&nbsp;&nbsp;&nbsp;As a charity,<br>
-&nbsp;&nbsp;&nbsp;So that I can advertise for donations of time or goods,<br>
-&nbsp;&nbsp;&nbsp;I'd like to be able to post adverts.
-
+```
+As a charity,
+So that I can advertise for donations of time or goods,
+I'd like to be able to post adverts.
+```
 ##### :white_check_mark: User Story 02
-
-&nbsp;&nbsp;&nbsp;As a donor,<br>
-&nbsp;&nbsp;&nbsp;So that I can donate,<br>
-&nbsp;&nbsp;&nbsp;I'd like to be able to see charities' adverts.
-
+```
+As a donor,
+So that I can donate,
+I'd like to be able to see charities' adverts.
+```
 ##### :white_check_mark: User Story 03
-
-&nbsp;&nbsp;&nbsp;As a charity,<br>
-&nbsp;&nbsp;&nbsp;So that I can manage my adverts,<br>
-&nbsp;&nbsp;&nbsp;I'd like to be able to sign up as a charity.
-
+```
+As a charity,
+So that I can manage my adverts,
+I'd like to be able to sign up as a charity.
+```
 ##### :white_check_mark: User Story 04
-
-&nbsp;&nbsp;&nbsp;As a charity,<br>
-&nbsp;&nbsp;&nbsp;So that I can manage my adverts,<br>
-&nbsp;&nbsp;&nbsp;I'd like to be able to log in and out.
-
-
+```
+As a charity,
+So that I can manage my adverts,
+I'd like to be able to log in and out.
+```
 ##### :heavy_exclamation_mark: User Story 05
-
-&nbsp;&nbsp;&nbsp;As a charity,<br>
-&nbsp;&nbsp;&nbsp;So that I can manage my adverts,<br>
-&nbsp;&nbsp;&nbsp;I'd like to be able to edit adverts.
-
+```
+As a charity,
+So that I can manage my adverts,
+I'd like to be able to edit adverts.
+```
 ##### :heavy_exclamation_mark: User Story 06
-
-&nbsp;&nbsp;&nbsp;As a charity,<br>
-&nbsp;&nbsp;&nbsp;So that I can manage my adverts,<br>
-&nbsp;&nbsp;&nbsp;I'd like to be able to delete adverts.
-
+```
+As a charity,
+So that I can manage my adverts,
+I'd like to be able to delete adverts.
+```
 #### Diagramming
 
 The following diagram shows the flow of information as we first envisioned it for the Minimum Viable Product
