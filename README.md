@@ -1,8 +1,7 @@
 # don8
 
-<div align="center">
-![untitled](https://user-images.githubusercontent.com/71934417/114692633-b3696b00-9d10-11eb-963b-9750ec20edfc.png)
- </div>
+![untitled](https://user-images.githubusercontent.com/71934417/114692827-e4e23680-9d10-11eb-8f4b-87db09204f9f.png)
+
 
 _don8_ is a multi platform mobile app designed to connect charities with people who can help them. Post adverts with what your charity needs, and volunteers can see what you need, and where!   
 We created _don8_ for our final project on the [Makers Academy](https://makers.tech/) course. In creating the app, we used the mobile MERN stack (MongoDB, Express, React Native & Node.js), which was entirely new to all of us. We had two weeks to complete the project, with a feature freeze on the second Wednesday, from which point we did not add any new functionality.
